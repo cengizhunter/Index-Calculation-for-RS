@@ -5,8 +5,11 @@ This code calculates indices like
 - NDBI 
 - NDTI
 
-*It can be easily modified.
+It can be easily modified for other indices.
 
 ## Libraries needed, works fine on python 3.82
 
+- rasterio
+- numpy
+- matplotlib
 
