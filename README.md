@@ -7,7 +7,7 @@ This code calculates indices like
 
 It can be easily modified for other indices.
 
-## Libraries that are used in notebook
+## Libraries
 
 - rasterio 
 - numpy 
