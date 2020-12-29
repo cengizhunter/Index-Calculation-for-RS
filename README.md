@@ -1,2 +1,6 @@
-# Remote-Sensing-Special-Topics
-Urban Indices calculation
+# Index Calculation
+NBI
+NDVI
+NDBI
+NDTI
+
