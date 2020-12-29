@@ -7,9 +7,9 @@ This code calculates indices like
 
 It can be easily modified for other indices.
 
-## Libraries used on python 3.82
+## Libraries used in notebook
 
-- rasterio
-- numpy
+- rasterio 
+- numpy 
 - matplotlib
 
