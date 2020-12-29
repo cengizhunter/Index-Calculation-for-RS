@@ -7,7 +7,7 @@ This code calculates indices like
 
 It can be easily modified for other indices.
 
-## Libraries needed, works fine on python 3.82
+## Libraries used on python 3.82
 
 - rasterio
 - numpy
