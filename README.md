@@ -1,5 +1,5 @@
 # Index Calculation
-This code calculates indices like
+
 -NBI
 -NDVI 
 -NDBI 
