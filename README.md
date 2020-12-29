@@ -1,6 +1,4 @@
 # Index Calculation
-NBI
-NDVI
-NDBI
-NDTI
+This code calculates indices like NBI, NDVI, NDBI, NDTI.
+It can be easily modified.
 
